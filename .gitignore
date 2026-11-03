@@ -1,0 +1,8 @@
+# CMake build output
+out/
+build/
+
+# Editor / IDE
+.vs/
+.vscode/
+*.user
